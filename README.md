@@ -4,10 +4,9 @@ A cross-platform desktop application combining a C# core with a Python-powered u
 
 Features
 
-Recording: Capture video from any connected camera and audio from your system microphone.
-Playback & Rendering: Preview recordings in real time and export to MP4 or AVI with customizable encoding settings.
-Clip Management: Delete, rename, or merge recorded segments with a single click.
-Audio Controls: Mute, trim, or normalize audio tracks before final export.
+Recording: Capture video fof your system with the sound of your system only
+Playback & Rendering: saved as mp4 , merging is required and deletaion of two files after merging, all handeled by python you can also create a c++ program to do the same functionality if you want 
+
 you can add it tou you your code
 
 Technical Overview
