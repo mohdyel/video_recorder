@@ -16,4 +16,4 @@ Backend: Core capture and processing engine written in C#.
 Interface: Python GUI handles all user interactions, delegates recording/deletion/rendering tasks to the C# library via a simple bindings layer.
 
 Requirements
-- Python 3.9+: for interface or run exe file directory
+- Python 3.9+: for interface or run exe file directorly  
